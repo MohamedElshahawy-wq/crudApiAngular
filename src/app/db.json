@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "ali",
+      "mobilephone": "01598745214",
+      "salary": "2000",
+      "age": "25",
+      "id": 1
+    },
+    {
+      "name": "samy",
+      "mobilephone": "01122222222",
+      "salary": "5000",
+      "age": "28",
+      "id": 2
+    }
+  ]
+}
