@@ -1,5 +1,0 @@
-sir, you must run json server firstly to see Data :)
-by writting this Command  in terminal 
-json-server --watch db.json
-
-and nodemodule Floder Deleted also you must run "npm install"  

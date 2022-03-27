@@ -1,39 +1,18 @@
 {
   "users": [
     {
-      "name": "alixyz",
+      "name": "ali",
       "mobilephone": "01598745214",
       "salary": "2000",
       "age": "25",
       "id": 1
     },
     {
-      "name": "samyii",
+      "name": "samy",
       "mobilephone": "01122222222",
       "salary": "5000",
       "age": "28",
       "id": 2
-    },
-    {
-      "name": "ahmedx",
-      "mobilephone": "01202258742",
-      "salary": "5000",
-      "age": "25",
-      "id": 3
-    },
-    {
-      "name": "xyz",
-      "mobilephone": "01202254575",
-      "salary": "2000",
-      "age": "22",
-      "id": 4
-    },
-    {
-      "name": "qqq",
-      "mobilephone": "01028660617",
-      "salary": "2000",
-      "age": "25",
-      "id": 5
     }
   ]
 }
